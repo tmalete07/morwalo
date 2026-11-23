@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140" role="img" aria-label="Morwalo logo">
+    <g transform="translate(10,14) scale(1.12)">
+        <path d="M14 88 V50 a20 20 0 0 1 40 0 V88 M54 50 a20 20 0 0 1 40 0 V88" fill="none" stroke="#3EC6E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="30" y="4" width="48" height="15" rx="4" fill="#E5484D"/>
+    </g>
+    <text x="148" y="106" font-family="Outfit, Poppins, 'Segoe UI', Arial, sans-serif" font-size="80" font-weight="600" letter-spacing="-2" fill="#FFFFFF">morwalo</text>
+</svg>
